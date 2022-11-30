@@ -3,3 +3,4 @@ ML resolusi
 - membuat model sederhana dengan pendekatan KNN
 -kedepannya saya bercita cita membuat fortopolio
 -kolaborasi lebih banyak dengan expert
+-membuat project ML
