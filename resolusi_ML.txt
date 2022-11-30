@@ -1,3 +1,5 @@
 ML resolusi
 - saya konsisten untuk belajar 8 jam machine learning 
 - membuat model sederhana dengan pendekatan KNN
+-kedepannya saya bercita cita membuat fortopolio
+-kolaborasi lebih banyak dengan expert
