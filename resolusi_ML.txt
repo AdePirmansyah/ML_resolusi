@@ -1,0 +1,3 @@
+ML resolusi
+- saya konsisten untuk belajar 8 jam machine learning 
+- membuat model sederhana dengan pendekatan KNN
